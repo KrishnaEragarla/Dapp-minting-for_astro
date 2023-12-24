@@ -1,0 +1,15 @@
+{
+  "name": "nft-landing-page",
+  "version": "1.0.0",
+  "description": "Landing page to be used with an NFTPort Collection Contract",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": " git+https://github.com/rkj3001/minter-decentralisation-app-rkj3"
+  }
+ 
+ 
+}
